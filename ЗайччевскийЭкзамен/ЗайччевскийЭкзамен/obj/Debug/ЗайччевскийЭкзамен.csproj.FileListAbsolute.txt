@@ -1,0 +1,6 @@
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайччевскийЭкзамен\bin\Debug\ЗайччевскийЭкзамен.dll
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайччевскийЭкзамен\bin\Debug\ЗайччевскийЭкзамен.pdb
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайччевскийЭкзамен\obj\Debug\ЗайччевскийЭкзамен.csproj.AssemblyReference.cache
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайччевскийЭкзамен\obj\Debug\ЗайччевскийЭкзамен.csproj.CoreCompileInputs.cache
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайччевскийЭкзамен\obj\Debug\ЗайччевскийЭкзамен.dll
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайччевскийЭкзамен\obj\Debug\ЗайччевскийЭкзамен.pdb

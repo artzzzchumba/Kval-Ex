@@ -1,0 +1,11 @@
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\bin\Debug\ЗайчевскийЭкзамен.exe.config
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\bin\Debug\ЗайчевскийЭкзамен.exe
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\bin\Debug\ЗайчевскийЭкзамен.pdb
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\bin\Debug\ЗайччевскийЭкзамен.dll
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\bin\Debug\ЗайччевскийЭкзамен.pdb
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\obj\Debug\ЗайчевскийЭкзамен.csproj.AssemblyReference.cache
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\obj\Debug\ЗайчевскийЭкзамен.csproj.SuggestedBindingRedirects.cache
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\obj\Debug\ЗайчевскийЭкзамен.csproj.CoreCompileInputs.cache
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\obj\Debug\ЗайчевскийЭкзамен.csproj.CopyComplete
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\obj\Debug\ЗайчевскийЭкзамен.exe
+C:\Users\316de\Desktop\ЗайччевскийЭкзамен\ЗайчевскийЭкзамен\obj\Debug\ЗайчевскийЭкзамен.pdb
